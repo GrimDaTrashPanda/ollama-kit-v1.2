@@ -1,0 +1,31 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Build artifacts
+*.tar
+*.tar.gz
+*.zip
+
+# Podman / Docker leftovers
+*.pid
+*.sock
+*.img
+*.qcow2
+
+# Editor / system
+*~
+.DS_Store
+Thumbs.db
