@@ -1,1 +1,6 @@
-1.2
+2025-08-16
+- v1.2 release
+- GUI containerized for Fedora GNOME (SELinux/XWayland safe)
+- Includes gui.Dockerfile, gui-run.sh, updated requirements.txt
+- Continues v1.1 lineage (backend + models preserved)
+
